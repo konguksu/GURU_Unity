@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9f2745c5011499c49803d9930fc3b071
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 7e5b18c9e55d2a542a27e0d3d1c34abd
+  - enabled: 1
+    path: Assets/Scenes/Day1Scene.unity
+    guid: 1e33d80612670c94a87c81661bcf690d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MiniGame1.unity
+    guid: 930a7f15edaf2b24e8b43001756e1ad5
+  - enabled: 0
+    path: Assets/Scenes/MiniGame2.unity
+    guid: 62ab6c7a9f9656648bdc147ccf36b419
+  - enabled: 1
+    path: Assets/Scenes/DrinkMiniGame.unity
+    guid: 7f5616ea09f3ef0409805a6a54776e0a
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: c204250e17fbb6e4c85547ce8682de9d
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 1f995bc948048e448aef9ce6130f894c
+  m_configObjects: {}
